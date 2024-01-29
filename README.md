@@ -3,7 +3,11 @@
 
 ### 🛠 Languages and Tools 🛠
 <div align="center">
-  <h3>📚Language📚</h3>
+  <h3>📚Language && Framework</h3>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
+  <h3>📚Database</h3>
+  
+  <h3>📚DevOps</h3>
 </div>
 
 <br>
