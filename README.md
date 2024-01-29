@@ -3,7 +3,7 @@
 
 ### 🛠 Languages and Tools
 <div align="center">
-  Language
+  <h3>Language</h3>
 </div>
 
 <br>
