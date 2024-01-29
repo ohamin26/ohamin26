@@ -32,4 +32,3 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohamin26&show_icons=true&theme=prussian)
 <img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohamin26&layout=compact&theme=prussian&hide_border=true" />
 
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient,100:C06C84&height=200&section=footer" />
