@@ -1,8 +1,8 @@
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=ohamin26&fontSize=60" />
 <br>
 
 ### 🛠 Languages and Tools 🛠
+<br>
 <div align="center">
   <h3>📚Language</h3>
   
