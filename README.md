@@ -1,14 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=ohamin26&fontSize=60" />
 <br>
 
-### 🛠 Languages and Tools
+### 🛠 Languages and Tools 🛠
 <div align="center">
-  <h3>Language</h3>
+  <h3>📚Language📚</h3>
 </div>
 
 <br>
 
-### 📺 Github Stats:
+### 📺 Github Stats 📺:
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohamin26&show_icons=true&theme=prussian)
