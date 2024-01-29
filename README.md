@@ -9,5 +9,5 @@
 ### github stats:
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohamin26&layout=compact&theme=nord&hide_border=true" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&hide=contribs,prs&show_icons=true&theme=nord)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디&hide=contribs,prs&show_icons=true&theme=prussian)
 
