@@ -2,7 +2,9 @@
 <br>
 
 ### 🛠 Languages and Tools
-<p style="text-center">Language</p>
+<div align="center">
+  <h3>Language</h3>
+</div>
 
 <br>
 
