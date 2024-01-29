@@ -2,7 +2,7 @@
 <br>
 
 ### 🛠 Languages and Tools
-<div style="text-center">Language</div>
+<p style="text-center">Language</p>
 ### github stats:
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohamin26&layout=compact&theme=nord&hide_border=true" />
