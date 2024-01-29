@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=gradient&height=200&section=header&text=ohamin26&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=header&text=ohamin26&fontSize=60" />
 
 ### 🛠 Languages and Tools 🛠
 <br>
