@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=0:F8B195,50:F67280,100:C06C84&height=300&section=header&text:f7f5f5=ohamin26&fontSize=60" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=0:F8B195,50:F67280,100:C06C84&height=300&section=header&text=f7f5f5ohamin26&fontSize=60" />
 
 ### 🛠 Languages and Tools 🛠
 <br>
