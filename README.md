@@ -41,3 +41,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohamin26&show_icons=true&theme=prussian)
 <img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohamin26&layout=compact&theme=prussian&hide_border=true" />
 
+
+
+| **오하민** | 
+| :------: |  
+| [<img width="140px" src="https://avatars.githubusercontent.com/u/113972482?v=4"height=150 width=150> <br/> @ohamin26] (https://github.com/ohamin26) |
