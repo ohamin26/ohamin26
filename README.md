@@ -19,7 +19,7 @@
 * collaboration : Notion / Slack / Github / Figma
 
 
-### 📺 Github Stats
+## 📺 Github Stats
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohamin26&show_icons=true&theme=prussian)
