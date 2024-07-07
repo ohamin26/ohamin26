@@ -1,42 +1,26 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=gradient&height=200&section=header&text=ohamin26&fontSize=60" />
+# 안녕하세요 프론트엔드 개발자 오하민입니다.
 
-<div align="center">
+* 지속적인 성장을 지향하는 개발자, 오하민입니다.
+* 끝없은 배움을 통해 다양한 기술을 습득하고, 한가지 분야에 있어 깊게 파고드는 것을 좋아합니다.
+* 다앙한 기술들을 학습하고 적용시킬 수 있는 풀스택 개발자를 지향합니다.
+* 어떠한 일을 할 때 포기하지 않고 끝까지 고민하고자 합니다.
 
-### 🛠 Languages and Tools 🛠
+## Education && Activicites
 
-</div>
+* 한세사이버보안고등학교 졸업 ( 2015.03.01 ~ 2017.02.22 )
+* 한국공학대학교 소프트웨어학과 4학년 재학 중 ( 2019.03.01 ~) (평균학점 : 3.59 / 4.5) (전공평균학점 : 3.89 / 4.5)
+* GDSC TUK 2기 일반 맴버 ( 2023.10.16 ~ 2024.07.31 )
 
-<div align="center"><br>
-  <h3>📚Language</h3>
-  
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-  
-  <h3>📚Frameworks && Libraries</h3>
-  <div>
-    
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" /> ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) 
-  </div>
-  <h3>📚Database</h3>
-  <div>
-    
-  ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-  </div>
-  <h3>📚Tools && DevOps</h3>
-  <div>
-    
-  ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Github Pages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-      
-  </div>
-</div>
-<br>
+### 🛠 Languages and Tools
 
-<div align="center">
+* Front-end : HTML5 / Javascript / TypeScript / React / NextJS
+* Back-end  : Python / Flask / NodeJs / Express / Firebase / Pytorch
+* DevOps : git / aws / gcp / docker / githubActions
+* collaboration : Notion / Slack / Github / Figma
+
 
 ### 📺 Github Stats 📺
 
-</div>
-
-<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ohamin26&show_icons=true&theme=prussian)
 <img style="height:195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ohamin26&layout=compact&theme=prussian&hide_border=true" />
