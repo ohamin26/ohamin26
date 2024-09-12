@@ -13,10 +13,10 @@
 
 ## 🛠 Languages and Tools
 
-* ****Front-end : HTML5 / Javascript / TypeScript / React / NextJS
-* ****Back-end  : Python / Flask / NodeJs / Express / Firebase / Pytorch
-* ****DevOps : git / aws / gcp / docker / githubActions
-* ****Collaboration : Notion / Slack / Github / Figma
+* *Front-end* : HTML5 / Javascript / TypeScript / React / NextJS
+* *Back-end*  : Python / Flask / NodeJs / Express / Firebase / Pytorch
+* *DevOps* : git / aws / gcp / docker / githubActions
+* *Collaboration* : Notion / Slack / Github / Figma
 
 
 ## 📺 Github Stats
