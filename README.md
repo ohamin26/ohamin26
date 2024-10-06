@@ -5,6 +5,9 @@
 * 다앙한 기술들을 학습하고 적용시킬 수 있는 풀스택 개발자를 지향합니다.
 * 어떠한 일을 할 때 포기하지 않고 끝까지 고민하고자 합니다.
 
+👉🏻[포트폴리오](https://immense-table-21f.notion.site/9e78accfe8354b22b62f3dd13a1f409f)
+👉🏻[블로그](https://ohamin26.tistory.com/)
+
 ## 📝 Education && Activicites
 
 * 한세사이버보안고등학교 졸업 ( 2015.03.01 ~ 2018.02.22 )
