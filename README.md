@@ -6,7 +6,7 @@
 * 어떠한 일을 할 때 포기하지 않고 끝까지 고민하고자 합니다.
 
 👉🏻[포트폴리오](https://immense-table-21f.notion.site/9e78accfe8354b22b62f3dd13a1f409f)
-👉🏻[블로그](https://ohamin26.tistory.com/)
+👉🏻[블로그](https://ohamin26.tistory.com/) 
  
 ## 📝 Education && Activicites
 
