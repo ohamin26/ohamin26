@@ -6,7 +6,8 @@
 * 어떠한 일을 할 때 포기하지 않고 끝까지 고민하고자 합니다. 
    
 👉🏻[블로그](https://ohamin26.tistory.com/) 
- 
+👉🏻[포트폴리오](https://immense-table-21f.notion.site/1465d73cee1380ff8d1ee5d4b3c59259?pvs=74)
+
 ## 📝 Education && Activicites
 
 * 한세사이버보안고등학교 졸업 ( 2015.03.01 ~ 2018.02.22 ) 
